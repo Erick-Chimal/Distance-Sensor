@@ -9,9 +9,6 @@
 
 void setup() {
 Serial.begin(9600); 
-Serial.println("CEIS101 Course Project Module 6");
-Serial.println("Name:ERick Chimal Gonz ");
-
 pinMode(trigPin, OUTPUT);
 pinMode(echoPin, INPUT);
 pinMode(Rled, OUTPUT);
