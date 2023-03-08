@@ -13,9 +13,7 @@ will beep and change intensity, based on the distance of an object using C++ lik
 - <b>Arduino IDE</b> 
 - <b>c++</b>
 - <b>x1 breadboard</b>
-- <b>x1 red led</b>
-- <b>x1 yellow led]</b>
-- <b>x1 blue/green led</b>
+
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> 
