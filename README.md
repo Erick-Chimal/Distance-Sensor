@@ -18,37 +18,15 @@ will beep and change intensity, based on the distance of an object using C++ lik
 
 - <b>Windows 10</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
-<!--
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p> -->
+The Build: <br/>
+<img src="https://user-images.githubusercontent.com/125524019/225760322-41759134-09a2-4172-83b7-9092db75b848.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+<b>Final build:<br/>
+<img src="https://user-images.githubusercontent.com/125524019/225760292-06bca2d0-8373-473b-97e3-7e80fb6b324f.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p> 
 
 <!--
  ```diff
