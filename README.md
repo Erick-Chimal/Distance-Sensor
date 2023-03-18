@@ -3,8 +3,7 @@
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
 <h2>Description</h2>
-Using an arduino one kit, I will construct and program a contraption that
-will beep and change intensity, based on the distance of an object using C++ like language.
+Developing a machine that can detect the distance of an object using C++ is an ambitious project, yet one that will yield many rewards. Through the use of this technology, it is possible to create an efficient system that can detect objects with a beep based on their proximity. Such a project requires a great deal of time and effort to be successful, as the coding must be precise for the desired effect. Not only does working with C++ require an in-depth understanding of the language, but the machine itself must be able to differentiate between objects and be able to calculate the distance accurately. Taking all of these challenges into consideration, this type of machine is not only achievable, but can provide a great deal of benefit to those who use it.
 <br />
 
 
@@ -12,7 +11,6 @@ will beep and change intensity, based on the distance of an object using C++ lik
 
 - <b>Arduino IDE</b> 
 - <b>c++</b>
-- <b>x1 breadboard</b>
 
 <h2>Environments Used </h2>
 
